@@ -109,7 +109,7 @@ export default function PaginaInicial() {
                 width: { xs: '100%', sm: '50%' }, textAlign: 'center', marginBottom: '32px',
               }}
             >
-              <Title tag="h2">Wel come a gain love!</Title>
+              <Title tag="h2">Welcome again Dev!</Title>
               <Text variant="body3" styleSheet={{ marginBottom: '32px', color: appConfig.theme.colors.neutrals[500] }}>
                 {appConfig.name}
               </Text>
